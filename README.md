@@ -7,7 +7,9 @@ Parts:
 
 1.Raspberry Pico 2W                     
 
-[![Raspberry Pico 2 W](https://www.raspberrypi.com/documentation/microcontrollers/images/pico2w-pinout.svg)](https://arduino.ua/prod8038-raspberry-pi-pico-2w) 
+[![Compute Module 5]([https://assets.raspberrypi.com/static/b78490cdba3951999078ac5495c2a463/c95d9/cm5.webp](https://www.raspberrypi.com/products/compute-module-5/?variant=cm5-104032)) 
+
+
 
  [datasheet](https://datasheets.raspberrypi.com/picow/pico-2-w-datasheet.pdf) 
 
