@@ -13,18 +13,12 @@ https://www.raspberrypi.com/products/compute-module-5/?variant=cm5-104032
 
 
 
-2.LCD bigtreetech TFT35 SPI 
+2.Waveshare CM5-IO-BASE-B base board for CM5
 
-[![Raspberry Pico 2 W](https://biqu.equipment/cdn/shop/products/04_94ff3eb3-2ca5-47ee-adda-5ccce0397c46.png?v=1716343264&width=1220)]
+[![CM5-IO-BASE-B](https://www.waveshare.com/CM5-IO-BASE-B.htm)]
 
 
-
-https://github.com/bigtreetech/TFT35-SPI/tree/master/v2
-
-https://biqu.equipment/products/bigtreetech-tft35-spi-v2-1-touchscreen-io2can-module?_pos=1&_psq=bigtreetech%2FTFT35-SPI&_ss=e&_v=1.0
-
-[datasheet touchpad NS2009] https://download.kamami.pl/p1185547-NS2009.pdf
-
+https://www.waveshare.com/wiki/CM5-IO-BASE-B?srsltid=AfmBOopvPZn0HrnNpzRyws_u5dU56Ii5mW11HDwkymTInZ6J1hu03szQ
 
 
 
