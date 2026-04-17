@@ -35,9 +35,10 @@ https://www.waveshare.com/4.3inch-dsi-lcd.htm?srsltid=AfmBOopWEzaiF8NMxRrA1a90t-
 https://www.itbox.ua/ua/product/Nakopichuvach_SSD_M2_2230_512GB_Samsung_MZ9L8512HDLU-00BD1-p1217894/
 
 
+model  <img width="786" height="415" alt="image" src="https://github.com/user-attachments/assets/cbfa07b0-0f93-42e7-9531-249c53ab8add" />
 
 
-model <img width="1417" height="872" alt="image" src="https://github.com/user-attachments/assets/0e6743ba-c240-4aba-8671-4d6309fccfcc" />
+
 
 
 Home screen <img width="702" height="1283" alt="image" src="https://github.com/user-attachments/assets/0f5cd5ff-1948-486f-bbdf-80bd15951706" />
