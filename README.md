@@ -37,11 +37,12 @@ https://www.itbox.ua/ua/product/Nakopichuvach_SSD_M2_2230_512GB_Samsung_MZ9L8512
 
 model  <img width="786" height="415" alt="image" src="https://github.com/user-attachments/assets/cbfa07b0-0f93-42e7-9531-249c53ab8add" />
 
+Home screen <img width="1575" height="991" alt="image" src="https://github.com/user-attachments/assets/63ae7c82-5601-4660-a0e8-d83bebce3e95" />
 
 
 
 
-Home screen <img width="702" height="1283" alt="image" src="https://github.com/user-attachments/assets/0f5cd5ff-1948-486f-bbdf-80bd15951706" />
+
 
 
 Template screen <img width="808" height="1191" alt="image" src="https://github.com/user-attachments/assets/69f74836-89bc-4736-86df-f3d507027064" />
