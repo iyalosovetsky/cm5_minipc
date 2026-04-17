@@ -15,7 +15,7 @@ https://www.raspberrypi.com/products/compute-module-5/?variant=cm5-104032
 
 2.Waveshare CM5-IO-BASE-B base board for CM5
 
-[![CM5-IO-BASE-B](https://assets.raspberrypi.com/static/b78490cdba3951999078ac5495c2a463/c95d9/cm5.webp)]
+[![CM5-IO-BASE-B](https://www.waveshare.com/media/catalog/product/cache/1/image/560x560/9df78eab33525d08d6e5fb8d27136e95/c/m/cm5-io-base-b-1.jpg)]
 
 
 https://www.waveshare.com/wiki/CM5-IO-BASE-B?srsltid=AfmBOopvPZn0HrnNpzRyws_u5dU56Ii5mW11HDwkymTInZ6J1hu03szQ
