@@ -40,19 +40,7 @@ model  <img width="786" height="415" alt="image" src="https://github.com/user-at
 Home screen <img width="1575" height="991" alt="image" src="https://github.com/user-attachments/assets/63ae7c82-5601-4660-a0e8-d83bebce3e95" />
 
 
+back <img width="1003" height="426" alt="image" src="https://github.com/user-attachments/assets/ef8f0968-3674-4e2e-94c3-5ac8884dc7f8" />
 
 
-
-
-
-Template screen <img width="808" height="1191" alt="image" src="https://github.com/user-attachments/assets/69f74836-89bc-4736-86df-f3d507027064" />
-
-
-
-
-
-
-
-
-
-youtube https://www.youtube.com/shorts/EfERpko-Jbs
+youtube [https://www.youtube.com/shorts/EfERpko-Jbs](https://www.youtube.com/watch?v=3AnfkiryPv8)
