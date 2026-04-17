@@ -22,18 +22,19 @@ https://www.waveshare.com/wiki/CM5-IO-BASE-B?srsltid=AfmBOopvPZn0HrnNpzRyws_u5dU
 
 
 3. 4.3inch Capacitive Touch Display for Raspberry Pi, DSI Interface, 800×480
-[![display]( https://www.waveshare.com/media/catalog/product/cache/1/image/560x560/9df78eab33525d08d6e5fb8d27136e95/4/_/4.3inch-dsi-lcd-3_4.jpg)]
+[![display](https://www.waveshare.com/media/catalog/product/cache/1/image/560x560/9df78eab33525d08d6e5fb8d27136e95/4/_/4.3inch-dsi-lcd-3_4.jpg)]
+[![display](https://www.waveshare.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/4/_/4.3inch-dsi-lcd-4_4.jpg)]
 
 https://www.waveshare.com/4.3inch-dsi-lcd.htm?srsltid=AfmBOopWEzaiF8NMxRrA1a90t-SVHk-YfXUjvZMcwaoSuadXrRSjbvn5
 
 
+4. SSD M.2 2230 512GB Samsung (MZ9L8512HDLU-00BD1)
+
+[![ssd](https://img8.itbox.ua/1600x1600/prod_img/8/U1132608_big_1768748895.webp)]
+ 
+https://www.itbox.ua/ua/product/Nakopichuvach_SSD_M2_2230_512GB_Samsung_MZ9L8512HDLU-00BD1-p1217894/
 
 
-
-
-Libraries:
-
-nanoguidlib https://github.com/peterhinch/micropython-nano-gui (modified)
 
 
 model <img width="1417" height="872" alt="image" src="https://github.com/user-attachments/assets/0e6743ba-c240-4aba-8671-4d6309fccfcc" />
