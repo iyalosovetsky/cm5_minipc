@@ -21,10 +21,14 @@ https://www.raspberrypi.com/products/compute-module-5/?variant=cm5-104032
 https://www.waveshare.com/wiki/CM5-IO-BASE-B?srsltid=AfmBOopvPZn0HrnNpzRyws_u5dU56Ii5mW11HDwkymTInZ6J1hu03szQ
 
 
+3. 4.3inch Capacitive Touch Display for Raspberry Pi, DSI Interface, 800×480
+[![display]( https://www.waveshare.com/media/catalog/product/cache/1/image/560x560/9df78eab33525d08d6e5fb8d27136e95/4/_/4.3inch-dsi-lcd-3_4.jpg)]
+
+https://www.waveshare.com/4.3inch-dsi-lcd.htm?srsltid=AfmBOopWEzaiF8NMxRrA1a90t-SVHk-YfXUjvZMcwaoSuadXrRSjbvn5
 
 
 
-[datasheet ili9488] https://www.lcdwiki.com/res/MSP3520/ILI9488%20Data%20Sheet.pdf
+
 
 
 Libraries:
