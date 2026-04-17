@@ -5,13 +5,13 @@ It can load and execute templates.
 
 Parts:
 
-1.Raspberry Pico 2W                     
+1.Raspberry pi compute module5
 
-https://assets.raspberrypi.com/static/b78490cdba3951999078ac5495c2a463/c95d9/cm5.webp
+[![Raspberry pi compute module5](https://assets.raspberrypi.com/static/b78490cdba3951999078ac5495c2a463/c95d9/cm5.webp)]
 
 
 
- [datasheet](https://datasheets.raspberrypi.com/picow/pico-2-w-datasheet.pdf) 
+
 
 2.LCD bigtreetech TFT35 SPI 
 
