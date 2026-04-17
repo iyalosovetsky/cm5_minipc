@@ -7,7 +7,7 @@ Parts:
 
 1.Raspberry Pico 2W                     
 
-[![Compute Module 5]([https://assets.raspberrypi.com/static/b78490cdba3951999078ac5495c2a463/c95d9/cm5.webp](https://www.raspberrypi.com/products/compute-module-5/?variant=cm5-104032)) 
+https://assets.raspberrypi.com/static/b78490cdba3951999078ac5495c2a463/c95d9/cm5.webp
 
 
 
