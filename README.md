@@ -9,7 +9,7 @@ Parts:
 
 [![Raspberry pi compute module5](https://assets.raspberrypi.com/static/b78490cdba3951999078ac5495c2a463/c95d9/cm5.webp)]
 
-
+https://www.raspberrypi.com/products/compute-module-5/?variant=cm5-104032
 
 
 
